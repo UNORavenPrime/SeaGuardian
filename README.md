@@ -8,4 +8,4 @@ Control
 More info
 This game is inspired by Sustainable Development Goals/SDGs, Goal 14 Life Below Water
 
-(If you lose, press the hamster nose or it wont stop)
+
